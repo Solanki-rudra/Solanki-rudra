@@ -2,12 +2,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Developer;React+%26+Next.js+Specialist;Full+Stack+Learner;Problem+Solver+%7C+LeetCoder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Developer;Love+ReactJS;Full+Stack+Developer;Problem+Solver+%7C+LeetCoder" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=rudrasolanki&style=for-the-badge&color=blue)
 </p>
 
 ---
@@ -51,7 +47,7 @@
 #### 🖥️ [Personal Portfolio](https://rudra-solanki.vercel.app/)
 A modern, responsive developer portfolio built using **Next.js** and **Tailwind CSS**, showcasing my projects and skills.
 
-#### 💡 [DSA Practice Repo](#)
+#### 💡 [DSA Practice Repo](https://github.com/Solanki-rudra/DSA)
 My daily **Data Structures & Algorithms** journey in JavaScript — improving logic and problem-solving skills.
 
 #### 🚧 [Exciting Projects](#)
@@ -61,22 +57,9 @@ Working on new apps with **React + NestJS + SQL** — coming soon 👀
 
 ### 💪 Competitive Programming
 
-#### 🧩 [LeetCode Profile](https://leetcode.com/YOUR-LEETCODE-USERNAME/)
+#### 🧩 [LeetCode Profile](https://leetcode.com/u/RudraSolanki/)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrasolanki&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrasolanki&theme=radical" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasolanki&layout=compact&theme=radical" height="150em" />
+  <img src="https://leetcard.jacoblin.cool/RudraSolanki?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -84,10 +67,10 @@ Working on new apps with **React + NestJS + SQL** — coming soon 👀
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rudra-solanki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rudrasolanki365@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://rudra-solanki.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/RudraSolanki" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,3 +78,5 @@ Working on new apps with **React + NestJS + SQL** — coming soon 👀
 ### 💬 Quote
 > *“Building something cool every day — one commit at a time.”*  
 > — Rudra Solanki
+
+
