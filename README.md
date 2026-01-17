@@ -8,15 +8,6 @@
 
 ---
 
-### 🚀 About Me
-- 🧠 Passionate about crafting modern, responsive, and scalable web applications.  
-- 💬 Skilled in **React.js**, **Next.js**, **Tailwind CSS**, and **JavaScript**.  
-- ⚙️ Experienced with **Node.js**, **Express.js**, **NestJS**, **MongoDB**, and **SQL**.  
-- 💡 Actively solving **Data Structures & Algorithms** problems on LeetCode.  
-- 🌍 Open to opportunities and exciting collaborations.  
-
----
-
 ### 🛠️ Tech Stack
 
 #### 💻 Frontend
@@ -42,19 +33,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🖥️ [Personal Portfolio](https://rudra-solanki.vercel.app/)
-A modern, responsive developer portfolio built using **Next.js** and **Tailwind CSS**, showcasing my projects and skills.
-
-#### 💡 [DSA Practice Repo](https://github.com/Solanki-rudra/DSA)
-My daily **Data Structures & Algorithms** journey in JavaScript — improving logic and problem-solving skills.
-
-#### 🚧 [Exciting Projects](#)
-Working on new apps with **React + NestJS + SQL** — coming soon 👀
-
----
-
 ### 💪 Competitive Programming
 
 #### 🧩 [LeetCode Profile](https://leetcode.com/u/RudraSolanki/)
@@ -73,10 +51,5 @@ Working on new apps with **React + NestJS + SQL** — coming soon 👀
   <a href="https://leetcode.com/RudraSolanki" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
----
-
-### 💬 Quote
-> *“Building something cool every day — one commit at a time.”*  
-> — Rudra Solanki
 
 
