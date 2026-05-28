@@ -1,21 +1,4 @@
 <h1 align="center">👋 Hey, I'm Rudra Solanki</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=900&color=FFF200&center=true&vCenter=true&width=260&lines=A;Loves;Works+As;Doing"
-      alt="Typing SVG"
-    />
-  </a>
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=900&color=36BCF7&center=true&vCenter=true&width=460&lines=Software+Engineer;ReactJS;Full+Stack+Developer;DSA+%7C+LeetCoder"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
